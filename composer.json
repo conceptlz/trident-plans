@@ -2,7 +2,15 @@
     "name": "conceptlz/trident-plans",
     "description": "SaaS style recurring plans for Laravel.",
     "keywords": ["trident", "plans", "laravel", "subscriptions", "memberships"],
+    "homepage": "https://github.com/conceptlz/trident-plans",
     "license": "MIT",
+    "authors": [
+        {
+        "name": "Karthik B C",
+        "email": "karthik@conceptualize.ae",
+        "homepage": "https://github.com/conceptlz/trident-plans",
+        "role": "Developer"
+    }],
     "type": "library",
     "require": {
         "php": "^7.4|^8.0",
