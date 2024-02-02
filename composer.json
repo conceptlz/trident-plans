@@ -1,8 +1,7 @@
 {
-    "name": "conceptlz/trident-plans",
+    "name": "gerardojbaez/laraplans",
     "description": "SaaS style recurring plans for Laravel.",
     "keywords": ["trident", "plans", "laravel", "subscriptions", "memberships"],
-    "homepage": "https://github.com/conceptlz/trident-plans",
     "license": "MIT",
     "authors": [
         {
